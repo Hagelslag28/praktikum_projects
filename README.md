@@ -1,8 +1,13 @@
-# Project repository for a profession - Specialist in Data Science
+# Age estimation from the photos
 
-These projects were completed during studying at Yandex.Practice within obtaining the Data Scientist qualification.
+## Task
+A chain supermarket introduces a computer vision system for processing customer photos. Photofixation in the checkout area will help determine the age of customers in order not to sell alcohol to younger people and better adapt the consumer basket for them.  
+For this supermarket, the analyst need to build a model that will determine the approximate age of a person from a photograph. 
 
-| Project name | Description | Libraries | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Estimate of gold concentrate](https://github.com/Hagelslag28/praktikum_projects/tree/gold_concentrate_prediction) | Predicting the gold concentration in rough ore following a complex technological process of cleaning and refining | *pandas, sklearn, matplotlib, numpy, seaborn, optuna, catboost* |
-| [Classifying Twitter comments as toxic](https://github.com/Hagelslag28/praktikum_projects/tree/text_toxicity_analysis) | Identifying the negative user comments to facilitate the process of comment moderation and improve customer service | *pandas, spacy, string, numpy, sklearn, nltk* |
+## Data
+We have at our disposal a set of photographs of people with age indications.
+
+## Libraries
+- pandas
+- matplotlib
+- keras
