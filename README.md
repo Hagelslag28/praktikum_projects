@@ -1,6 +1,8 @@
-# Project repository for a profession - Specialist in Data Science
+# Elizaveta Rebeko - Data Scientist
 
-These projects were completed during studying at Yandex.Practice within obtaining the Data Scientist qualification.
+***Project repository for the profession - Specialist in Data Science***
+
+These projects were completed during studying at [Yandex.Practikum](https://practicum.yandex.com) within obtaining the Data Scientist qualification.
 
 | Project name | Description | Libraries | Skills/tools |
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
